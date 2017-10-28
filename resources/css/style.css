@@ -1,0 +1,17 @@
+body {
+  font-family: Helvetica;
+  background-color: black;
+  text-align: center;
+}
+
+.top-header h1 {
+  font-family: Verdana;
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+}
+
+.top-header a {
+  font-size: 16px;
+  color: Aquamarine;
+}
