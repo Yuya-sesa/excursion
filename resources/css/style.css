@@ -1,17 +1,31 @@
 body {
-  font-family: Helvetica;
+  font-family: Verdana;
+  color: white;
   background-color: black;
   text-align: center;
 }
 
-.top-header h1 {
-  font-family: Verdana;
+.top h1 {
   font-size: 50px;
-  font-weight: normal;
-  color: white;
+  font-weight: bold;
 }
 
-.top-header a {
+.top .bottom p {
   font-size: 16px;
   color: Aquamarine;
+}
+
+.middle .bottom h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.middle p {
+  font-size: 21px;
+  color: gray;
+}
+
+.footer p{
+  text-align: right;
+  color: gray;
 }
